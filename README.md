@@ -18,19 +18,6 @@ Contributors
 - Ishu Bharati Pandit
 
 
-Directory Structure
-ETS_Derivative_Temperature/
-├── scripts/
-│   ├── forecast_ets.py            # Python script for temperature forecasting
-│   ├── discrete_derivative.c      # C program for computing discrete derivatives
-├── data/
-│   └── dataset.csv                # Input dataset (sample or real data)
-├── output/                        # Stores generated forecast and derivative files
-├── main_menu.c                    # Main menu implementation in C
-├── README.md                      # Project documentation
-├── LICENSE                        # License file (e.g., MIT)
-
-
 Prerequisites
 ### Software Requirements
 - Python 3.10+
