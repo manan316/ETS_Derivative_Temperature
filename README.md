@@ -34,7 +34,7 @@ pip install pandas statsmodels matplotlib tqdm
 Getting Started
 1. Clone the Repository:
 ```bash
-git clone https://github.com/manan316>/ETS_Derivative_Temperature.git
+git clone https://github.com/manan316/ETS_Derivative_Temperature.git
 cd ETS_Derivative_Temperature
 ```
 
