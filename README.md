@@ -19,6 +19,7 @@ Contributors
 
 Prerequisites
 ### Software Requirements
+- Windows 10 and Above (Windows 11 Recomended)
 - Python 3.10+
 - C Compiler (GCC recommended)
 - Microsoft Excel (To view csv files)
