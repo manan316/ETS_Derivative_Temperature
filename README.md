@@ -12,11 +12,6 @@ Features
 4. Seamless integration of Python for forecasting and C for computational analysis.
 
 
-Contributors
-- Manan Sharma
-- Ishu Bharati Pandit
-
-
 Prerequisites
 ### Software Requirements
 - Windows 10 and Above (Windows 11 Recomended)
