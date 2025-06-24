@@ -4,9 +4,9 @@ Temperature Prediction Using ETS Model: A Multi-Language Platform
 This project predicts daily average temperatures using the Exponential Smoothing (ETS) model, implemented in Python, and computes discrete derivatives to analyze short-term temperature variations using C.
 The project includes a user-friendly command-line interface (CLI) for seamless interaction, providing options to generate forecasts, compute derivatives, and visualize results.
 
-Contributers
-1.Manan Sharma
-2.Ishu Bharati Pandit
+###Contributers
+-1.Manan Sharma
+-2.Ishu Bharati Pandit
 
 Features
 1. Forecast temperature trends over a 45-day period using the ETS model.
