@@ -55,7 +55,6 @@ Launch the main menu:
 2. View Results: Opens the forecasted data in Excel.
 3. Compute Discrete Derivative: Computes forward, backward, and central derivatives using the C program.
 4. Exit: Closes the program.
-How It Works
 
 #### Forecasting with ETS
 The `forecast_ets.py` script:
